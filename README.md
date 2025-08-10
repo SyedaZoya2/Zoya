@@ -1,5 +1,4 @@
-# Zoya
-Analysis of UPI payment refusals by vendors in Bangalore, exploring trends, reasons, and potential solutions
+# Analysis of UPI payment refusals by vendors in Bangalore, exploring trends, reasons, and potential solutions
 
 UPI Payment Refusals in Bangalore – Data Analysis
 Overview
